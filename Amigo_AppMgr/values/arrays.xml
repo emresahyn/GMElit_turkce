@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="title_group_move_package">
-        <item>Applications On Internal</item>
-        <item>Applications On SDCard</item>
+        <item>İnternetteki Uygulamalar</item>
+        <item>Hafızadaki Uygulamalar</item>
     </string-array>
     <string-array name="title_group_move_package1">
-        <item>Applications On System Space</item>
-        <item>Applications On Internal</item>
+        <item>Sistem Alanındaki Uygulamalar</item>
+        <item>İnternetteki Uygulamalar</item>
     </string-array>
     <string-array name="ui_privacy_policy">
-        <item>Call Phone</item>
-        <item>Send SMS</item>
-        <item>Send MMS</item>
-        <item>Call Log</item>
-        <item>Read SMS</item>
-        <item>Read MMS</item>
-        <item>Read Contacts</item>
-        <item>GPS Location</item>
-        <item>Network Location</item>
-        <item>Phone Status</item>
-        <item>Write/Delete SMS</item>
-        <item>Write/Delete MMS</item>
-        <item>Write/Delete Contacts</item>
-        <item>Write/Delete Call log</item>
-        <item>Sound Record</item>
-        <item>Camera</item>
-        <item>Mobile Network</item>
-        <item>Wi-Fi Network</item>
+        <item>Ara</item>
+        <item>SMS Gönder</item>
+        <item>MMS Gönder</item>
+        <item>Arama Kayıtları</item>
+        <item>SMS Oku</item>
+        <item>MMS Oku</item>
+        <item>Kişileri Gör</item>
+        <item>GPS Lokasyonu</item>
+        <item>Bağlantı Lokasyonu</item>
+        <item>Telefon Durumu</item>
+        <item>SMS Yaz/Sil</item>
+        <item>MMS Yaz/Sil</item>
+        <item>Kişi Oluştur/Sil</item>
+        <item>Arama Kaydı Oluştur/Sil</item>
+        <item>Ses Kaydı</item>
+        <item>Kamera</item>
+        <item>Mobil Bağlantı</item>
+        <item>Wi-Fi Bağlantısı</item>
         <item>Bluetooth</item>
-        <item>Bluetooth Pairing</item>
+        <item>Bluetooth Eşleştirme</item>
         <item>NFC</item>
     </string-array>
     <string-array name="permission_summary">
-        <item>" apps can call phone"</item>
-        <item>" apps can send SMS"</item>
-        <item>" apps can send MMS"</item>
-        <item>" apps can get call log"</item>
-        <item>" apps can read SMS"</item>
-        <item>" apps can read MMS"</item>
-        <item>" apps can reand contacts"</item>
-        <item>" apps can get gps location"</item>
-        <item>" apps can get network location"</item>
-        <item>" apps can get phone status"</item>
-        <item>" apps can write/delete SMS"</item>
-        <item>" apps can write/delete MMS"</item>
-        <item>" apps can write/delete contacts"</item>
-        <item>" apps can write/delete call log"</item>
-        <item>" apps can record sound"</item>
-        <item>" apps can use camera"</item>
-        <item>" apps can use mobile network"</item>
-        <item>" apps can use Wi-Fi network"</item>
-        <item>" apps can use Bluetooth"</item>
-        <item>" apps can use Bluetooth pairing"</item>
-        <item>" apps can use NFC"</item>
+        <item>" kişileri arayabilir"</item>
+        <item>" SMS gönderebilir"</item>
+        <item>" MMS gönderebilir"</item>
+        <item>" aramaları yanıtlayabilir"</item>
+        <item>" SMS okuyabilir"</item>
+        <item>" MMS okuyabilir"</item>
+        <item>" rehbere erişebilir"</item>
+        <item>" gps lokasyonuna erişebilir"</item>
+        <item>" bağlantı lokasyonuna erişebilir"</item>
+        <item>" telefon durumuna erişebilir"</item>
+        <item>" SMS yazabilir/silebilir"</item>
+        <item>" MMS yazabilir/silebilir"</item>
+        <item>" kişileri oluşturabilir/silebilir"</item>
+        <item>" arama kaydı oluşturabilir/silebilir"</item>
+        <item>" ses kaydedebilir"</item>
+        <item>" kamerayı kullanabilir"</item>
+        <item>" mabil bağlantıyı kullanabilir"</item>
+        <item>" Wi-Fi bağlantısını kullanabilir"</item>
+        <item>" Bluetooth kullanabilir"</item>
+        <item>" Bluetooth eşleşmesi yapabilir"</item>
+        <item>" NFC kullanabilir"</item>
     </string-array>
     <string-array name="header_list">
-        <item>Enable</item>
-        <item>Disable</item>
+        <item>Aktifleştir</item>
+        <item>Deaktifleştir</item>
     </string-array>
     <string-array name="ui_def_soft">
-        <item>InputMethod</item>
-        <item>Browser</item>
-        <item>Contacts</item>
-        <item>Messaging</item>
-        <item>Launcher</item>
-        <item>Camera</item>
-        <item>Image</item>
-        <item>Music</item>
+        <item>GirişMetodu</item>
+        <item>Tarayıcı</item>
+        <item>Rehber</item>
+        <item>Mesaj</item>
+        <item>Arayüz</item>
+        <item>Kamera</item>
+        <item>Resim</item>
+        <item>Müzik</item>
         <item>Video</item>
         <item>Reader</item>
     </string-array>
     <string-array name="ui_def_soft_title">
-        <item>Default InputMethod</item>
-        <item>Default Browser</item>
-        <item>Default Contacts</item>
-        <item>Default Messaging</item>
-        <item>Default Launcher</item>
-        <item>Default Camera</item>
-        <item>Default Image</item>
-        <item>Default Music</item>
-        <item>Default Video</item>
-        <item>Default Reader</item>
+        <item>Varsayılan GirişMetodu</item>
+        <item>Varsayılan Tarayıcı</item>
+        <item>Varsayılan Rehber</item>
+        <item>Varsayılan Mesaj</item>
+        <item>Varsayılan Arayüz</item>
+        <item>Varsayılan Kamera</item>
+        <item>Varsayılan Resim</item>
+        <item>Varsayılan Müzik</item>
+        <item>Varsayılan Video</item>
+        <item>Varsayılan Reader</item>
     </string-array>
     <string-array name="listitem_soft_manager_activity">
-        <item>Application uninstall</item>
-        <item>Application move</item>
-        <item>Application permission</item>
-        <item>Default application settings</item>
+        <item>Uygulama kaldır</item>
+        <item>Uygulama taşı</item>
+        <item>Uygulama izinleri</item>
+        <item>Varsayılan uygulama ayarları</item>
     </string-array>
     <string-array name="list_summary_soft_manager_activity">
-        <item>Number of applications</item>
-        <item>Change installed place, optimize storage space</item>
-        <item>Set permission, privacy protection</item>
-        <item>Set default open application, more convenient</item>
+        <item>Uygulama sayısı</item>
+        <item>Yükleme konumunu değiştir, sistem alanını optimize et</item>
+        <item>İzin ayarlama, gizlilik koruma</item>
+        <item>Varsayılan olarak açık uygulamaları düzenle</item>
     </string-array>
 </resources>
